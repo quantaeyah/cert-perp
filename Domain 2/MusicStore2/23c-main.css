@@ -9,7 +9,9 @@ p {
 a {
     text-decoration:none;
 }
-/* 
+/* #sidenote {
+ background-color:#dbd9d9;
+}
     The background color extends across the page, so we have
     commented it out for now.
 */
